@@ -1,2 +1,2 @@
-- 👀 Estou interessado em Programação de desenvolvimento de software
+
 - 🌱 Atualmente cursando Analise e desenvolvimento de sistemas
